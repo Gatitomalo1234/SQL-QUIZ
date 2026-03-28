@@ -101,7 +101,3 @@ ORDER BY diferencia DESC
 LIMIT 30;
 ```
 
----
-
-> [!TIP]
-> **Nota:** Estas consultas han sido optimizadas para claridad y legibilidad. ¡Espero que este reporte sea de gran utilidad! 🌟
